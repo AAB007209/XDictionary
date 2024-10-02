@@ -1,0 +1,12 @@
+[
+
+    { "word": "React", "meaning": "A JavaScript library for building user interfaces." },
+
+    { "word": "Component", "meaning": "A reusable building block in React." },
+
+    { "word": "State", "meaning": "An object that stores data for a component." },
+
+    { "word" : "Reconciliation", "meaning" : "The algorithm React uses to diff one tree with another to determine which parts need to be changed."},
+    
+    { "word" : "React_Fibre", "meaning" : "React Fiber is a ground-up rewrite of the reconciler algorithm."}
+]
